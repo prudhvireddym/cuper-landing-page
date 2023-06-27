@@ -58,8 +58,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2 text-center">Always-On Expertise for Your Stakeholders</h4>
-              <p className="text-lg text-gray-400 text-center">Empower your customers and employees with the feeling of having a dedicated in-house expert always ready to assist them.</p>
+              <h4 className="h4 mb-2 text-center">Constant Expertise for Stakeholders</h4>
+              <p className="text-lg text-gray-400 text-center">Experience the benefit of having a readily available, dedicated AI expert at your service, enhancing customer and employee interactions.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +71,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2 text-center">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-center">Personalized Customer Interactions</h4>
+              <p className="text-lg text-gray-400 text-center">Boost customer engagement with personalized interactions, using AI that understands your business, products, and services in depth.</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +85,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2 text-center">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-center">Easy Web Integration</h4>
+              <p className="text-lg text-gray-400 text-center">Implement our chatbot on your website for smooth, Chat GPT-like interactions, equipped with comprehensive knowledge of your entire site.</p>
             </div>
 
           </div>
