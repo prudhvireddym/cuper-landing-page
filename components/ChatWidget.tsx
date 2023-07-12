@@ -2,7 +2,7 @@ function ChatWidget() {
     return (
         <div style={{ position: 'fixed', bottom: '10px', right: '10px', zIndex: 1000 }}>
             <iframe
-                src="https://cuper-dreamcare-frontend.vercel.app/"
+                src="https://cuper-chat.vercel.app/"
                 width="650"
                 height="850"
                 style={{ border: 'none' }}
